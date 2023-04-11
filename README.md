@@ -1,2 +1,3 @@
-# EnvironmentalAwareness
-Website that calculates Air Quality Index to tell users the issues of Environment and how to protect it.
+# Project_Exibition_II
+Hosted at link: 
+https://project-exebition-ii.github.io/Project_Exibition_II/
